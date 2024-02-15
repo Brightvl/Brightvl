@@ -19,7 +19,7 @@
 
 ### 💻 Back-end:
 
-<div style="display: flex; justify-content: center; align-items: center; background-color: darkgrey">
+<div style="display: flex; justify-content: center; align-items: center; background-color: #ffffff">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40" style="margin-right: 5px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40" style="margin-right: 5px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySql" alt="MySql" width="40" height="40" style="margin-right: 5px;"/>&nbsp;
