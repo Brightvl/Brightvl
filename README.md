@@ -37,6 +37,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
 </div>
+
 ---
 
 ### 🛠 Инструменты:
@@ -53,11 +54,15 @@
 
 ### 💻 Пройденные курсы:
 
+---
+
 ### ⚙️ GitHub статистика:
 
 <div>
-<img height="500px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Brightvl&layout=compact&theme=radical" />
+<img height="200px" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Brightvl&layout=compact&theme=radical" />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brightvl&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Brightvl&theme=onedark)](https://github.com/Brightvl/github-profile-trophy)
 </div>
+
+---
