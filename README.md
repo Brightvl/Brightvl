@@ -25,7 +25,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySql" alt="MySql" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-    
+
 </div>
 
 ### 💻 full-stack:
@@ -53,17 +53,10 @@
 
 ### 💻 Пройденные курсы:
 
-
 ### ⚙️ GitHub статистика:
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Brightvl&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Brightvl&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
+<div>
+<img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Brightvl&layout=compact&theme=radical" />
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=brightvl)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brightvl&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Brightvl&theme=onedark)](https://github.com/Brightvl/github-profile-trophy)
+</div>
