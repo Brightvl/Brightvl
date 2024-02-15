@@ -1,25 +1,21 @@
-## 🤝 Contact:
+### 🤝 Contact:
 
 <div align="center">
 <a href="https://github.com/https://github.com/Brightvl" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21871906/iaroslav-s" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
-<a href="https://t.me/Bright_vl/" target="_blank">
-<img src=https://img.shields.io/badge/Telegram-%2324292e.svg?&style=for-the-badge&logo=Telegram&logoColor=white alt=Telegram style="margin-bottom: 5px;" />
-</a>  
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin: 5px;" />
 <a href="https://vk.com/bright_vl/" target="_blank">
-<img src=https://img.shields.io/badge/vk-%2324292e.svg?&style=for-the-badge&logo=vk&logoColor=white alt=vk style="margin-bottom: 5px;" />
-</a>  
+<img src=https://img.shields.io/badge/vk-%2324292e.svg?&style=for-the-badge&logo=vk&logoColor=blue alt=vk style="margin: 5px;" />
+</a>
+<a href="https://t.me/Bright_vl/" target="_blank">
+<img src=https://img.shields.io/badge/Telegram-%2324292e.svg?&style=for-the-badge&logo=Telegram&logoColor=white alt=Telegram style="margin: 5px;" />
+</a>
 </div>  
 
-## 💻 Technologies:
+### 💻 Technologies:
 
 <table><tr><td valign="top" width="33%">
 
-### Frontend
+#### Frontend
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a>  
@@ -33,7 +29,7 @@
 </td>
 <td valign="top" width="33%">
 
-### Backend
+#### Backend
 
 <div align="center">  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
@@ -49,7 +45,7 @@
 
 </td><td valign="top" width="33%">
 
-### Tools
+#### Tools
 
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" /></a>  
