@@ -19,7 +19,7 @@
 
 ### 💻 Back-end:
 
-<div>
+<div style="display: flex; justify-content: center;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40" style="margin-right: 5px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg" title="maven" alt="maven" width="40" height="40" style="margin-right: 5px;"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original-wordmark.svg" title="gradle" alt="gradle" width="40" height="40" style="margin-right: 5px;"/>&nbsp;
@@ -31,7 +31,7 @@
 <br> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40" style="margin-right: 5px;"/>&nbsp;
 <br>      
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40" style="margin-right: 5px; background-color: darkgrey;"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40" style="margin-right: 5px;"/>&nbsp;
 </div>
 
 ### 💻 Front-end:
