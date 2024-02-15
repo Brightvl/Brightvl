@@ -71,10 +71,5 @@
 <br>
 <img src="https://github-profile-trophy.vercel.app/?username=Brightvl&theme=matrix" align="center" width="800px" />
 
-</div>  
-
-
-<br/>  
-
-### 💻 Courses completed:
+</div>
 
