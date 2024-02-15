@@ -31,7 +31,7 @@
 <br> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40" style="margin-right: 5px;"/>&nbsp;
 <br>      
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40" style="margin-right: 5px; background-color: darkgrey"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40" style="margin-right: 5px; background-color: darkgrey;"/>&nbsp;
 </div>
 
 ### 💻 Front-end:
