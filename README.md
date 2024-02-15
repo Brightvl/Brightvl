@@ -66,11 +66,11 @@
 ### ⚙️ GitHub statistics:
 
 <div align="center" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brightvl&hide_border=true&layout=compact&theme=merko" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brightvl&hide_border=true&layout=compact&theme=merko" align="center" width="400px"/>
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Brightvl&hide_border=true&layout=compact&theme=merko" align="center" width="300" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Brightvl&hide_border=true&layout=compact&theme=merko" align="center" width="600px" />
 <br>
-<img src="https://github-profile-trophy.vercel.app/?username=Brightvl&theme=matrix" align="center" width="300" />
+<img src="https://github-profile-trophy.vercel.app/?username=Brightvl&theme=matrix" align="center" width="800px" />
 
 </div>  
 
