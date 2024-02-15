@@ -62,7 +62,13 @@
 
 </td></tr></table> 
 
----
+<br/>  
+
+
+## Github Stats
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brightvl&hide_border=true&layout=compact&theme=merko" align="center" /></div>  
+
+<br/>  
 
 ### 💻 Courses completed:
 
@@ -71,7 +77,6 @@
 ### ⚙️ GitHub statistics:
 
 <div>
-<img height="200px" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Brightvl&layout=compact&theme=merko" />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brightvl&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Brightvl&theme=matrix)](https://github.com/Brightvl/github-profile-trophy)
