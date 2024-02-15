@@ -3,12 +3,14 @@
 <div align="center">
 <a href="https://github.com/https://github.com/Brightvl" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin: 5px;" />
+</a>
 <a href="https://vk.com/bright_vl/" target="_blank">
 <img src=https://img.shields.io/badge/vk-%2324292e.svg?&style=for-the-badge&logo=vk&logoColor=blue alt=vk style="margin: 5px;" />
 </a>
 <a href="https://t.me/Bright_vl/" target="_blank">
 <img src=https://img.shields.io/badge/Telegram-%2324292e.svg?&style=for-the-badge&logo=Telegram&logoColor=white alt=Telegram style="margin: 5px;" />
 </a>
+
 </div>  
 
 ### 💻 Technologies:
