@@ -1,7 +1,7 @@
 ### 🤝 Contact:
 
 <div align="center">
-<a href="https://github.com/https://github.com/Brightvl" target="_blank">
+<a href="https://github.com/Brightvl" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin: 5px;" />
 </a>
 <a href="https://vk.com/bright_vl/" target="_blank">
