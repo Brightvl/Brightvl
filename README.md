@@ -1,4 +1,4 @@
-## 🤝 Social media:
+## 🤝 Contact:
 
 <div align="center">
 <a href="https://github.com/https://github.com/Brightvl" target="_blank">
