@@ -1,7 +1,3 @@
-# Hi!
-
----
-
 ## 🤝 Social media:
 
 <div align="center">
@@ -19,7 +15,6 @@
 </a>  
 </div>  
 
----
 
 ## 💻 Technologies:
 <table><tr><td valign="top" width="33%">
