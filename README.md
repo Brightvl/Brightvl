@@ -59,10 +59,10 @@
 ### ⚙️ GitHub статистика:
 
 <div>
-<img height="200px" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Brightvl&layout=compact&theme=radical" />
+<img height="200px" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Brightvl&layout=compact&theme=merko" />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brightvl&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Brightvl&theme=onedark)](https://github.com/Brightvl/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Brightvl&theme=matrix)](https://github.com/Brightvl/github-profile-trophy)
 </div>
 
 ---
