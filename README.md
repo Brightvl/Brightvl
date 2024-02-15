@@ -1,8 +1,8 @@
-# Привет, меня зовут Ярослав!
+# Hi!
 
 ---
 
-## 🤝 Социальные сети:
+## 🤝 Social media:
 
   <div id="badges">
     <a href="https://t.me/Bright_vl" target="_blank">
@@ -15,7 +15,7 @@
 
 ---
 
-## 💻 Технологии:
+## 💻 Technologies:
 
 ### 💻 Back-end:
 
@@ -35,7 +35,7 @@
 </div>
 
 
-### 💻 full-stack:
+### 💻 Front-end:
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>
@@ -47,7 +47,7 @@
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Tools:
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/> &nbsp
@@ -57,17 +57,19 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
     <br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="idea" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>&nbsp;
     
     
 </div>
 
 ---
 
-### 💻 Пройденные курсы:
+### 💻 Courses completed:
 
 ---
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub statistics:
 
 <div>
 <img height="200px" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Brightvl&layout=compact&theme=merko" />
