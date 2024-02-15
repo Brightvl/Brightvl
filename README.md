@@ -15,11 +15,12 @@
 </a>  
 </div>  
 
-
 ## 💻 Technologies:
+
 <table><tr><td valign="top" width="33%">
 
 ### Frontend
+
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -31,9 +32,8 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend
+
 <div align="center">  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
@@ -48,9 +48,8 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Tools
+
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -62,24 +61,21 @@
 
 </td></tr></table> 
 
-<br/>  
+<br/>
 
+### ⚙️ GitHub statistics:
 
-## Github Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brightvl&hide_border=true&layout=compact&theme=merko" align="center" /></div>  
+<div align="center" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brightvl&hide_border=true&layout=compact&theme=merko" align="center" />
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Brightvl&hide_border=true&layout=compact&theme=merko" align="center" width="300" />
+<br>
+<img src="https://github-profile-trophy.vercel.app/?username=Brightvl&theme=matrix" align="center" width="300" />
+
+</div>  
+
 
 <br/>  
 
 ### 💻 Courses completed:
 
----
-
-### ⚙️ GitHub statistics:
-
-<div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brightvl&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Brightvl&theme=matrix)](https://github.com/Brightvl/github-profile-trophy)
-</div>
-
----
