@@ -4,23 +4,25 @@
 
 ## 🤝 Social media:
 
-  <div id="badges">
-    <a href="https://t.me/Bright_vl" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-    <a href="https://vk.com/bright_vl" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-  </div>
+<div align="center">
+<a href="https://github.com/https://github.com/Brightvl" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21871906/iaroslav-s" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>  
+<a href="https://t.me/Bright_vl/" target="_blank">
+<img src=https://img.shields.io/badge/Telegram-%2324292e.svg?&style=for-the-badge&logo=Telegram&logoColor=white alt=Telegram style="margin-bottom: 5px;" />
+</a>  
+<a href="https://vk.com/bright_vl/" target="_blank">
+<img src=https://img.shields.io/badge/vk-%2324292e.svg?&style=for-the-badge&logo=vk&logoColor=white alt=vk style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
 ---
 
 ## 💻 Technologies:
-
-#### My Skill Set
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend
 <div align="center">  
